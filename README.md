@@ -20,5 +20,7 @@ This Gmail Clone display all functionality of the actual Gmail Inbox, Starred, B
 5) MongoDB
 
 # Overview :
+Video :
 https://github.com/garvita2003/Gmail_Clone/assets/102051676/ab22374f-1658-4cc4-bc76-525554b6e85e
+
 ![Screenshot 2023-09-15 022001](https://github.com/garvita2003/Gmail_Clone/assets/102051676/2833e7d8-3a2e-4b49-b6d1-f15b2ac83eab)
